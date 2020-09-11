@@ -1,0 +1,7 @@
+#pin-box {
+	display: grid;
+	grid-template-columns: 8vw 8vw 8vw;
+	grid-template-rows: 8vw 8vw 8vw 8vw;
+	grid-gap: 5px;
+
+}
